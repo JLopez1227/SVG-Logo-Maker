@@ -7,7 +7,7 @@ In this assignment, we were tasked with making a SVG logo maker. To do this we h
 To use this application you first want to clone my GitHub Repository onto your local computer. Then, you want to open the intergrated termial and run `npm i`. After running `npm i` you can then run `node index.js` to start up the application. You'll answer the questions and upon finishing that you should see and newly generated SVG file. You'll want to install the SVG Preview extension in VS Code, after installing it, you'll right click your newly generated SVG file and open the preview. You'll then be able to see your newly generated SVG logo!
 
 ## Links
-[GitHub Repository](https://github.com/JLopez1227/modern-e-commerce)
+[GitHub Repository](https://github.com/JLopez1227/SVG-Logo-Maker)
 
 ## Tutorial Video
-[SVG Logo Maker Walkthrough](https://drive.google.com/file/d/1LKJyMdBHFuSZCPcAZRuX4DrD0er3m74d/view)
+[SVG Logo Maker Walkthrough](https://drive.google.com/file/d/1SiY_BmB-k0W7fFVd8XPCMwcb2hwSUg7R/view)
